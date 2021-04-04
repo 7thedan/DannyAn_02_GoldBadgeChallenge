@@ -1,0 +1,6 @@
+C:\Users\danny\source\repos\Two_GoldBadge_Challenge\02RepositoryPattern_Repository\bin\Debug\02RepositoryPattern_Repository.dll
+C:\Users\danny\source\repos\Two_GoldBadge_Challenge\02RepositoryPattern_Repository\bin\Debug\02RepositoryPattern_Repository.pdb
+C:\Users\danny\source\repos\Two_GoldBadge_Challenge\02RepositoryPattern_Repository\obj\Debug\02RepositoryPattern_Repository.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\Two_GoldBadge_Challenge\02RepositoryPattern_Repository\obj\Debug\02RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Two_GoldBadge_Challenge\02RepositoryPattern_Repository\obj\Debug\02RepositoryPattern_Repository.dll
+C:\Users\danny\source\repos\Two_GoldBadge_Challenge\02RepositoryPattern_Repository\obj\Debug\02RepositoryPattern_Repository.pdb
